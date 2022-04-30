@@ -1,6 +1,6 @@
 # SoFast
 
-Passing judgement on the performance of your dev scripts
+> Passing judgement on the performance of your dev scripts
 
 A CLI for logging timings of commands. Inspired by esbuild which finishes with a message like this: "⚡ Done in 53ms". SoFast builds on this to include prompts that identify performance issues.
 
