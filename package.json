@@ -1,6 +1,6 @@
 {
   "name": "sofast",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "wraps a command in a timer and logs completion time to console",
   "homepage": "https://github.com/jamalsenouci/sofast",
   "license": "MIT",
